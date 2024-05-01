@@ -1,12 +1,2 @@
-import React from "react";
-import "./index.css";
-
-function index() {
-  return (
-    <div className="bg-">
-      <div className=""></div>
-    </div>
-  );
-}
-
-export default index;
+// Write custom JavaScript here.
+// You may ignore this file and delete if if JavaScript is not required for your challenge.
